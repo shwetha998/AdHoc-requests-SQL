@@ -1,6 +1,6 @@
 # AtliQ Consumer goods AdHoc Insights
 
-A comprehensive SQL project demonstrating database design and business intelligence capabilities through solving 10 real-world business requirements for Cina Company.
+A comprehensive SQL project demonstrating database design and business intelligence capabilities through solving 10+ real-world business requirements for AtliQ Hardware Company.
 
 ## 📋 Project Overview
 
